@@ -262,7 +262,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By ᯤ 𝘽𝙖𝙣𝙜 𝙁𝘿',
+text: '𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙈𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙁𝙪𝙖𝙙 𝙓𝙮𝙧𝙤',
 mentions: await conn.parseMention(jarot),
 title: jarot,
 buttonText: `CLICK HERE ⎙`, 
@@ -339,7 +339,7 @@ let buttonMessage= {
 'externalAdReply':{
 'showAdAttribution': true, 
 'mediaUrl': 'https://instagram.com/jarotr_',
-'title': '𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴',
+'title': '𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙈𝙮 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙁𝙪𝙖𝙙 𝙓𝙮𝙧𝙤',
 'body':'',
 'mediaType': 2,
 'thumbnail': fs.readFileSync('./thumbnail.jpg'),
