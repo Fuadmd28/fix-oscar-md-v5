@@ -332,14 +332,14 @@ let gh = 'https://github.com/JarotOffc?tab=repositories'
 let buttonMessage= {
 'document':{'url':gh},
 'mimetype': 'application/pdf',
-'fileName':'𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝',
+'fileName':'𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙',
 'fileLength':'99999999999999',
 'pageCount':'999',
 'contextInfo':{
 'externalAdReply':{
 'showAdAttribution': true, 
 'mediaUrl': 'https://instagram.com/jarotr_',
-'title': '𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝚈 𝙹𝙰𝚁𝙾𝚃',
+'title': '𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴',
 'body':'',
 'mediaType': 2,
 'thumbnail': fs.readFileSync('./thumbnail.jpg'),
