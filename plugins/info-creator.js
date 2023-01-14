@@ -28,7 +28,7 @@ VERSION:3.0
 N:;;;
 FN: ᯤ Owner Bot
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=628816862358:628816862358@s.whatsapp.net
+item1.TEL;waid=628881704965:628881704965@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 // Jangan Di Ganti Nomer Yang Bawah!! Jangan Lupa berterima kasih 
 item2.TEL;waid=628989513496:628989513496@s.whatsapp.net
