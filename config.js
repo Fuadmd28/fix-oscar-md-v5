@@ -1,13 +1,13 @@
-global.you = ['628989513496'] 
+global.you = ['6285763838236'] 
 //Developer Bot
 global.namebot = 'Elxbotz'
-global.rowner = ['628995386725', '628995386725'] // Real Owner Bot
-global.owner = ['628995386725'] // Owner Bot
+global.rowner = ['6285763838236', '6285763838236'] // Real Owner Bot
+global.owner = ['6285763838236'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6287761563941']
+global.helper = ['6285763838236']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -76,7 +76,7 @@ global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
-//global sosialmedia 𝙉𝙚𝙠𝙤-𝘽𝙤𝙩
+//global sosialmedia Shycle tzy
 global.sc = "⫹⫺ Nih Jangan Lupa Kasih Subrek https://youtube.com/@fuadxyro5248"
 global.sgc = 'https://chat.whatsapp.com/Blom Ada'
 global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
@@ -85,9 +85,9 @@ global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@fuadxyro5248
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 // Sticker WM
-global.packname = '𝙉𝙚𝙠𝙤-𝘽𝙤𝙩 X 𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.author = '𝙉𝙚𝙠𝙤-𝘽𝙤𝙩 X 𝘽𝙖𝙣𝙜 𝙁𝘿'
-global.wm = '© 𝘽𝙖𝙣𝙜 𝙁𝘿'
+global.packname = 'Shycle tzy'
+global.author = 'Shycle tzy'
+global.wm = '© Shycle tzy'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
