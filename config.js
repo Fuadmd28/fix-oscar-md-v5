@@ -1,13 +1,13 @@
-global.you = ['6282145894799'] 
+global.you = ['6285795551088']
 //Developer Bot
-global.namebot = 'X4nZ Bot'
-global.rowner = ['6282145894799', '6282145894799'] // Real Owner Bot
-global.owner = ['6282145894799'] // Owner Bot
+global.namebot = 'RIN-BOTZ'
+global.rowner = ['6285795551088', '6285795551088'] // Real Owner Bot
+global.owner = ['6285795551088'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6282145894799']
+global.helper = ['6285795551088']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -76,7 +76,7 @@ global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
-//global sosialmedia X4nZ Bot
+//global sosialmedia RIN-BOTZ
 global.sc = "⫹⫺ Nih Jangan Lupa Kasih Subrek https://youtube.com/@fuadxyro5248"
 global.sgc = 'https://chat.whatsapp.com/Blom Ada'
 global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
@@ -85,9 +85,9 @@ global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@fuadxyro5248
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/Blom Ada'
 // Sticker WM
-global.packname = 'X4nZ Bot'
-global.author = 'X4nZ Bot'
-global.wm = '© X4nZ Bot'
+global.packname = 'RIN-BOTZ'
+global.author = 'RIN-BOTZ'
+global.wm = '© RIN-BOTZ'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
